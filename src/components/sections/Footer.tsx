@@ -10,11 +10,7 @@ export function Footer() {
         <div className="flex flex-col justify-between gap-8 md:flex-row md:items-start">
           <div className="flex flex-col gap-3">
             <div className="flex items-center gap-2.5 font-mono text-[11px] font-semibold uppercase tracking-[0.32em] text-foreground">
-              <span
-                aria-hidden
-                className="inline-block h-2 w-2 rounded-full bg-accent shadow-[0_0_12px_rgba(212,162,47,0.9)]"
-              />
-              Stark / Industries
+              STARK INDUSTRIES
             </div>
             <p className="max-w-[38ch] font-sans text-sm leading-relaxed text-zinc-400">
               &copy; Stark Industries &mdash; 10880 Malibu Point, 90265.

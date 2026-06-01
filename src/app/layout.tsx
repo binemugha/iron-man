@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Stark Industries — Mark LXXXV",
   description:
-    "Arc reactor online. J.A.R.V.I.S. standing by. Scroll to engage the Mark LXXXV.",
+    "Arc reactor online. J.A.R.V.I.S. standing by. Scroll to initialize the Mark LXXXV.",
   metadataBase: new URL("http://localhost:3000"),
 };
 
